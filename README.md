@@ -17,7 +17,7 @@ Minhas credenciais incluem a formação em engenharia elétrica na UFRN acrescid
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joseluizlucenaalves/)
-* [Medium](https://www.medium.com)
+* [Medium](https://https://medium.com/@eng.zeluiz)
 
 
 ## Projetos:
