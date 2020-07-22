@@ -9,11 +9,12 @@
 # José Luiz Lucena Alves
 <sub>*Engenheiro eletricista e Cientista de Dados* </sub>
 
-Trabalho desde 2009 em Engenharia Elétrica atuando tanto em campo como em escritório. Tenho fácil comunicação e uma boa habilidade em motivar e trabalhar em equipe, já atuei em empresas de médio e grande porte nos segmentos de construção civil, mineração e gestão de projetos, com sólidos conhecimentos em trabalhos de montagem eletromecânica, manutenção, projetos, planejamento e instrumentação. Pretendo começar a introduzir o estudo de ciências de dados nessas áreas relacionadas e também na saúde.
+Trabalho desde 2009 em Engenharia Elétrica atuando tanto em campo como em escritório.
+Atuei em empresas de médio e grande porte nos segmentos de construção civil, Energia renovável, Mineração e Gestão de projetos, com sólidos conhecimentos em trabalhos de montagem eletromecânica, manutenção, projetos, planejamento e instrumentação. Pretendo começar a introduzir o estudo de ciências de dados nessas áreas relacionadas e também na saúde.
 
 Minhas credenciais incluem a formação em engenharia elétrica na UFRN acrescidos de especialização em Engenharia clínica na RTG especialização, MBA Gestão de projetos na UNP - Universidade potiguar e em andamento MBA em tecnologia para negócios:AI, Data sciece e Big data pela PUCRS
 
-**Background in:** Python, Machine Learning, Engenharia elétrica.
+**Background in:** Python, Machine Learning, Inteligência artificial e Engenharia elétrica.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joseluizlucenaalves/)
